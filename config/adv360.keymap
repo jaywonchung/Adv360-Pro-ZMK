@@ -36,7 +36,7 @@
     bslh_del: bslh_del {
         compatible = "zmk,behavior-mod-morph";
         #binding-cells = <0>;
-        bindings = <&kp BSLH> <&kp BSPC>;
+        bindings = <&kp BSLH>, <&kp BSPC>;
         mods = <(MOD_LGUI)>;
         keep-mods = <(MOD_LGUI)>;
     };
