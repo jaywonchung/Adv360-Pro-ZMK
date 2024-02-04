@@ -1,9 +1,9 @@
 [
 	{
 		"names": [
-			"LS(SPACE)"
+			"LC(SPACE)"
 		],
-		"description": "LS(SPACE)",
+		"description": "LC(SPACE)",
 		"clarify": false,
 		"documentation": "",
 		"os": {
