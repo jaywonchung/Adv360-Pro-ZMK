@@ -24,8 +24,8 @@
         label = "BSLS_DEL";
         #binding-cells = <0>;
         bindings = <&kp BSLH>, <&kp BSPC>;
-        mods = <(MOD_LGUI)>;
-        keep-mods = <(MOD_LGUI)>;
+        mods = <(MOD_LGUI|MOD_LALT)>;
+        keep-mods = <(MOD_LGUI|MOD_LALT)>;
     };
   };
 
